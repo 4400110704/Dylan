@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\4400110704\\Source\\Repos\\Dylan\\CKK.Logic\\CKK.Logic.Models.csproj",
-      "projectName": "CKK.Logic.Models",
-      "projectPath": "C:\\Users\\4400110704\\Source\\Repos\\Dylan\\CKK.Logic\\CKK.Logic.Models.csproj",
+      "projectUniqueName": "C:\\Users\\4400110704\\Source\\Repos\\Dylan\\CKK.Logic\\CKK.Logic.csproj",
+      "projectName": "CKK.Logic",
+      "projectPath": "C:\\Users\\4400110704\\Source\\Repos\\Dylan\\CKK.Logic\\CKK.Logic.csproj",
       "packagesPath": "C:\\Users\\4400110704\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\4400110704\\Source\\Repos\\Dylan\\CKK.Logic\\obj\\",
       "projectStyle": "PackageReference",
