@@ -8,5 +8,12 @@ namespace CKK.Logic.Models
 {
     class StoreItem
     {
+        private Product Product { get; set; }
+        private int Quantity { get; set; }
+        public StoreItem(Product Product, int Quantity)
+        {
+
+        }
+
     }
 }

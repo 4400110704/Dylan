@@ -10,3 +10,15 @@ C:\Users\dylan\source\Programs\CKK.Logic\CKK.Logic\obj\Debug\net5.0\CKK.Logic.cs
 C:\Users\dylan\source\Programs\CKK.Logic\CKK.Logic\obj\Debug\net5.0\CKK.Logic.dll
 C:\Users\dylan\source\Programs\CKK.Logic\CKK.Logic\obj\Debug\net5.0\ref\CKK.Logic.dll
 C:\Users\dylan\source\Programs\CKK.Logic\CKK.Logic\obj\Debug\net5.0\CKK.Logic.pdb
+C:\Users\4400110704\source\repos\Dylan\CKK.Logic\bin\Debug\net5.0\CKK.Logic.deps.json
+C:\Users\4400110704\source\repos\Dylan\CKK.Logic\bin\Debug\net5.0\CKK.Logic.dll
+C:\Users\4400110704\source\repos\Dylan\CKK.Logic\bin\Debug\net5.0\ref\CKK.Logic.dll
+C:\Users\4400110704\source\repos\Dylan\CKK.Logic\bin\Debug\net5.0\CKK.Logic.pdb
+C:\Users\4400110704\source\repos\Dylan\CKK.Logic\obj\Debug\net5.0\CKK.Logic.csproj.AssemblyReference.cache
+C:\Users\4400110704\source\repos\Dylan\CKK.Logic\obj\Debug\net5.0\CKK.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4400110704\source\repos\Dylan\CKK.Logic\obj\Debug\net5.0\CKK.Logic.AssemblyInfoInputs.cache
+C:\Users\4400110704\source\repos\Dylan\CKK.Logic\obj\Debug\net5.0\CKK.Logic.AssemblyInfo.cs
+C:\Users\4400110704\source\repos\Dylan\CKK.Logic\obj\Debug\net5.0\CKK.Logic.csproj.CoreCompileInputs.cache
+C:\Users\4400110704\source\repos\Dylan\CKK.Logic\obj\Debug\net5.0\CKK.Logic.dll
+C:\Users\4400110704\source\repos\Dylan\CKK.Logic\obj\Debug\net5.0\ref\CKK.Logic.dll
+C:\Users\4400110704\source\repos\Dylan\CKK.Logic\obj\Debug\net5.0\CKK.Logic.pdb
