@@ -20,9 +20,9 @@ namespace CKK.Logic.Models
         {
             Id = id;
         }
-        public void GetName()
+        public string GetName()
         {
-            return;
+            return null;
         }
         public void SetName(string name)
         {
