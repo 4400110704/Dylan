@@ -22,7 +22,7 @@ namespace CKK.Logic.Models
         }
         public void GetName()
         {
-
+            return;
         }
         public void SetName(string name)
         {
